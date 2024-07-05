@@ -1,0 +1,8 @@
+[
+  {
+    "name": "GEMNASIUM_SCAN_TARGET",
+    "value": "PassionAppFacilities.WebAPI",
+    "protected": false,
+    "environment_scope": "All"
+  }
+]
